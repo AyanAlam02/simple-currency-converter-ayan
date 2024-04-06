@@ -1,6 +1,6 @@
 {
   "name": "simple-currency-calculator-ayan",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A Simple Currency Calculator Based On Typescript And Inquirer.",
   "main": "index.js",
   "type": "module",
